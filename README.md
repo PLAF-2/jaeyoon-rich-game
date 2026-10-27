@@ -1,4 +1,6 @@
-# 👑 임재윤의 부자되기 대작전 (Rich Jae-yoon Simulator)
+# 임재윤의 부자되기 작전
+
+🎮 [게임 바로 플레이하기](https://jaeyoon-rich-game-at3n.vercel.app/)
 
 > 어떤 말도 안 되는 선택을 해도 100% 무조건 우주 억만장자가 되는 5분 픽셀 부자 육성 시뮬레이션 게임!
 
