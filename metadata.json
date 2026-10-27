@@ -1,0 +1,6 @@
+{
+  "name": "임재윤의 무조건 부자되기 대작전",
+  "description": "어떤 말도 안 되는 선택을 해도 무조건 억만장자 우주 재벌이 되는 임재윤의 5분 쾌감 픽셀 부자 육성 게임!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
